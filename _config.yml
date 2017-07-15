@@ -6,9 +6,9 @@ highlighter:      pygments.rb
 permalink:        pretty
 
 # Setup
-title:            Rui d'Orey
+title:            LDI Dev Edition
 tagline:          'A person'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="http://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Nothing to report'
 url:              http://ruiorey.github.io
 baseurl:          /
 
