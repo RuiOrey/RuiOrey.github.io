@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments.rb
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Rui d'Orey
+tagline:          'A person'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="http://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://ruiorey.github.io
+baseurl:          /
+
+author:
+  name:           'Rui Orey'
+  url:            http://twitter.com/RuiOrey
+
+plugins: 
+  - jekyll-paginate 
+  - jekyll-gist
+paginate:         5
+paginate_path: "page:num"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           http://github.com/ruiorey
